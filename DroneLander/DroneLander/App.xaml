@@ -15,7 +15,7 @@
 
             <Style x:Key="DisplayLabelStyle" TargetType="Label">
                 <Setter Property="TextColor" Value="White" />
-                <Setter Property="Margin" Value="0,-15,0,0" />
+                <Setter Property="Margin" Value="0,-15,0,0" /> q
                 <Setter Property="FontSize" Value="48" />
             </Style>
 
